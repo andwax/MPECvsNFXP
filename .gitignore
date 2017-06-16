@@ -10,6 +10,7 @@
 **/tmp*
 **/output
 **/EV
+**.html
 
 *.png
 juddsu/*_result
